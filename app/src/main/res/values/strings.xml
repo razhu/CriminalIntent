@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CriminalIntent</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="testing_string">testing features</string>
+    <string name="testing_strings">toast_message2</string>
+    <string-array name="randomList">
+        <item>Bolivia</item>
+        <item>Peru</item>
+        <item>Paraguay</item>
+        <item>Brazil</item>
+        <item>Colombia</item>
+        <item>Puerto Rico</item>
+
+    </string-array>
+
+</resources>
